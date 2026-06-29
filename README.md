@@ -37,3 +37,6 @@ An integrated mechatronics project combining embedded firmware, custom mechanica
 2. Open `Sketch1.ino` in the Arduino IDE.
 3. Ensure the `Joystick.h` library is installed.
 4. Upload the firmware to an Arduino Micro.
+<img width="955" height="1274" alt="0" src="https://github.com/user-attachments/assets/79e40801-b624-4201-8f88-24fd05a88fb3" />
+<img width="1699" height="1274" alt="0" src="https://github.com/user-attachments/assets/fad407d2-9ba5-4a72-bcbe-c2a0be222119" />
+<img width="955" height="1274" alt="0" src="https://github.com/user-attachments/assets/9994de8b-f341-4ae6-8e33-5326053ba216" />
